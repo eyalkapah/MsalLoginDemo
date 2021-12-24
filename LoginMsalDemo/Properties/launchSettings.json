@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LoginMsalDemo (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "LoginMsalDemo (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
