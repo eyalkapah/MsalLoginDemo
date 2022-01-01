@@ -7,6 +7,7 @@ using System;
 using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Threading.Tasks;
+using Shared;
 
 
 // To learn more about WinUI, the WinUI project structure,

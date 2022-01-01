@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LoginMsalNoneWctDemo (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "LoginMsalNoneWctDemo (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
